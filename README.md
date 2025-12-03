@@ -87,19 +87,7 @@ No model showed underfitting.
 
 🧪 How to Run the Project
 
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-
-
-Install necessary dependencies:
-
-pip install pandas numpy scikit-learn imbalanced-learn
-
-
-Run the Python file:
-
-python Code_Kunal_Bhoite.py
+- Run the Python file: python Code_Kunal_Bhoite.py
 
 📄 Evaluation Metrics Used
 
